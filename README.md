@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Giacomo</h1>
 <h3 align="center">A passionate developer from France working for Atos</h3>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🛠 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **Next.js, Redux and other stuff in Javascript/Typescript**
+- 🎓 I’m currently learning **Next.js, Redux and other stuff in Javascript/Typescript**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/giacomo falzone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giacomo falzone" height="30" width="40" /></a>
